@@ -7,9 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Pwn%20%7C%20AD-darkred" />
-  <img src="https://img.shields.io/badge/CTF-Hack%20The%20Box-black" />
-  <img src="https://img.shields.io/badge/Role-Offensive%20Security-maroon" />
+  <img src="https://img.shields.io/badge/Binary%20Exploitation-Pwn-red" />
+  <img src="https://img.shields.io/badge/Web%20Application-Attacks-orange" />
+  <img src="https://img.shields.io/badge/Active%20Directory-Attacks-yellow" />
+  <img src="https://img.shields.io/badge/Network%20%26%20System-Exploitation-green" />
+  <img src="https://img.shields.io/badge/Privilege%20Escalation-Linux%20%7C%20Windows-blue" />
+  <img src="https://img.shields.io/badge/Post-Exploitation-purple" />
 </p>
 
 </div>
